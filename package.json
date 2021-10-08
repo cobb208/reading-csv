@@ -1,0 +1,15 @@
+{
+  "name": "reading-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
